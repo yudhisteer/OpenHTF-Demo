@@ -1,0 +1,4 @@
+Custom Output
+DUT ID: SN1234
+Outcome: Outcome.PASS
+Phase: get_sn
